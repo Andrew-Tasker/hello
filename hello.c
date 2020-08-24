@@ -14,5 +14,9 @@ int main(int argc, char **argv) {
   printf("Andrew Tasker!git\n");
   printf("Finance and computer science\n");
 
+
+  printf("Addison\n");
+  printf("Undeclared\n");
+
   return 0;
 }
